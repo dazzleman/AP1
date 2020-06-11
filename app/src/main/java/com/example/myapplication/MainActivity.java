@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         String testName = getResources().getString(R.string.test_name);
+
+        System.out.println(testName);
     }
 }
